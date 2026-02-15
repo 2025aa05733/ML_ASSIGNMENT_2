@@ -1,8 +1,8 @@
 # ML Assignment 2 - Student Performance Prediction
 
 ## Links
-- **GitHub**: [Add your repo link]
-- **Streamlit App**: [Add your deployed app link]
+- **GitHub**: (https://github.com/2025aa05733/ML_ASSIGNMENT_2)
+- **Streamlit App**: https://2025aa05733-new.streamlit.app
 
 ---
 
@@ -74,14 +74,14 @@ project/
 ├── data/
 │   └── student_performance.csv
 └── models/
-    ├── logistic_model.pkl
-    ├── dt_model.pkl
-    ├── knn_model.pkl
-    ├── nb_model.pkl
-    ├── rf_model.pkl
-    ├── xgb_model.pkl
-    ├── preprocessors.pkl
-    └── model_comparison.csv
+    ├── logistic_regression.py
+    ├── decision_tree.py
+    ├── knn.py
+    ├── naive_bayes.py
+    ├── random_forest.py
+    ├── xgboost_model.py
+    └── model_comparison.csv   
+
 ```
 
 ---
